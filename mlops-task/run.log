@@ -1,0 +1,12 @@
+2026-03-28 17:15:21,836 - INFO - Job started
+2026-03-28 17:15:21,841 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-28 17:15:21,841 - ERROR - Input CSV not found
+2026-03-28 21:41:38,195 - INFO - Job started
+2026-03-28 21:41:38,199 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-28 21:41:38,239 - ERROR - Missing 'close' column
+2026-03-28 21:48:33,673 - INFO - Job started
+2026-03-28 21:48:33,675 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-28 21:48:33,711 - ERROR - Missing 'close' column. Found columns: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-03-28 21:56:25,020 - INFO - Job started
+2026-03-28 21:56:25,023 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-28 21:56:25,067 - ERROR - Missing 'close' column. Found columns: ['timestamp,open,high,low,close,volume_btc,volume_usd']
